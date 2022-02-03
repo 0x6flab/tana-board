@@ -14,6 +14,7 @@
 
 ## Setup
 
+## NOTE: Change evrywhere where there is nakujaproject to your own github organization name or username
 
 ### Description
 
