@@ -49,3 +49,17 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+
+**/build/
+*.bin
+*.elf
+*.hex
+*.lss
+*.map
+*.o
+*.pro
+
+.DS_Store
+.idea/
+.vs
+.vscode
