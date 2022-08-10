@@ -4,7 +4,7 @@
   "name": "tanaBoard",
   "content": "",
   "created_at": "2022-02-21 21:43:46",
-  "updated_at": "2022-07-17 22:31:27",
+  "updated_at": "2022-08-11 00:26:48",
   "stick": "",
   "documents": [
     {
@@ -42,7 +42,7 @@
           "testpoint",
           8,
           "TESTPAD",
-          "1V1,1V3,BOT,D+,D-,RESET,SWCLK,SWD",
+          "3V3,5V,BOT,D+,D-,RESET,SWCLK,SWD",
           {
             "BOM_Manufacturer": "",
             "BOM_Manufacturer Part": "",
@@ -364,11 +364,11 @@
           }
         ]
       ],
-      "updateTime": 1658085192,
+      "updateTime": 1659907987,
       "createTime": 1645473311,
       "histories": [],
       "created_at": "2022-02-21 22:55:11",
-      "updated_at": "2022-07-17 22:13:12"
+      "updated_at": "2022-08-08 00:33:07"
     },
     {
       "uuid": "a0d832f4d2a555c68d842a168936d451",
@@ -440,20 +440,6 @@
           }
         ],
         [
-          "BZX584B5V1",
-          1,
-          "SOD-523_L1.2-W0.8-LS1.6-FD",
-          "D1",
-          {
-            "BOM_Supplier": "LCSC",
-            "BOM_Supplier Part": "C968173",
-            "BOM_Manufacturer": "YANGJIE(扬杰)",
-            "BOM_Manufacturer Part": "BZX584B5V1",
-            "puuid": "32b22494791c46c7923f210b651adcc1",
-            "uuid": "ffa7dcc87e2c4721bdba7f096ec273ae"
-          }
-        ],
-        [
           "BSMD0402L-050",
           1,
           "F0402",
@@ -735,11 +721,11 @@
           }
         ]
       ],
-      "updateTime": 1645476218,
+      "updateTime": 1659907944,
       "createTime": 1645473341,
       "histories": [],
       "created_at": "2022-02-21 22:55:41",
-      "updated_at": "2022-02-21 23:43:38"
+      "updated_at": "2022-08-08 00:32:24"
     },
     {
       "uuid": "9173ceba84899a047870513a5c37fdae",
@@ -751,8 +737,6 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "b729b819852f4104b24a4c9144913ca1": 8,
-        "0d139e62728a49b09c74d4ad035ce944": 2,
         "6200581e048848138c6a279857b8523f": 2,
         "af16510a196f45a3b2eecfb1ed8360c1": 2,
         "ceeb0db6889a49bb97a6eaedc53acb3f": 1,
@@ -764,14 +748,16 @@
         "aeb5072cde544ddbbf3a0f964e1f80dd": 2,
         "405bdaabdf124e969674ea0b66e89ab1": 1,
         "e7f085e4f71344109c090040716070ab": 1,
-        "39e1b05b30bd4c64a6c9a1b67d9eb207": 1
+        "39e1b05b30bd4c64a6c9a1b67d9eb207": 1,
+        "b729b819852f4104b24a4c9144913ca1": 8,
+        "0d139e62728a49b09c74d4ad035ce944": 2
       },
       "BOM": [],
-      "updateTime": 1658086287,
+      "updateTime": 1660166808,
       "createTime": 1645473373,
       "histories": [],
       "created_at": "2022-02-21 22:56:13",
-      "updated_at": "2022-07-17 22:31:27"
+      "updated_at": "2022-08-11 00:26:48"
     },
     {
       "uuid": "765babca97f3d86d04c3e70d884a7526",
@@ -814,5 +800,5 @@
   "title": "tanaBoard",
   "foldername": "tanaBoard",
   "schfilename": "tanaBoard.json",
-  "schfilemtime": 1658085193090
+  "schfilemtime": 1659907987297
 }

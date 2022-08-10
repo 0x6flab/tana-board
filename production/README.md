@@ -2,6 +2,6 @@
 
 This directory contains the fabrication files used in the project namely:
 
-- Gerber files
-- Bill of Materials file
-
+- [Gerber files](Gerber.zip)
+- [Bill of Materials file](BOM.csv)
+- [Interactive BOM for assembly](PCB_tana_rev0.html)
