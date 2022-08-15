@@ -1,4 +1,4 @@
-# Hand Motion Controller
+# Tana Board
 
 Docs, Schematic and Board file for a the Tana development board based on the RP2040 chip.
 
