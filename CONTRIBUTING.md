@@ -1,14 +1,14 @@
-# Contributing to Nakuja
+# Contributing to Tana Board
 
-The following is a set of guidelines to contribute to Nakuja and its repositories, which are hosted on the [Nakuja Organization](https://github.com/nakujaproject) on GitHub.
+The following is a set of guidelines to contribute to Tana Board and its repositories, which are hosted on the [0x6flab Organization](https://github.com/0x6flab) on GitHub.
 
-This project adheres to the [Contributor Covenant 1.2](http://contributor-covenant.org/version/1/2/0). By participating, you are expected to uphold this code. Please report unacceptable behavior to [info@nakujaproject.com](mailto:info@nakujaproject.com).
+This project adheres to the [Contributor Covenant 1.2](http://contributor-covenant.org/version/1/2/0). By participating, you are expected to uphold this code. Please report unacceptable behavior to [info@rodneyosodo.com](mailto:info@rodneyosodo.com).
 
 ## Reporting issues
 
 Reporting issues are a great way to contribute to the project. We are perpetually grateful about a well-written, thorough bug report.
 
-Before raising a new issue, check [our issue list](https://github.com/nakujaproject/easyedaTemplate/issues) to determine if it already contains the problem that you are facing.
+Before raising a new issue, check [our issue list](https://github.com/0x6flab/tana-board/issues) to determine if it already contains the problem that you are facing.
 
 A good bug report shouldn't leave others needing to chase you for more information. Please be as detailed as possible. The following questions might serve as a template for writing a detailed report:
 
@@ -28,24 +28,24 @@ Please adhere to the general conventions used throughout the project. If in doub
 
 To contribute to the project, [fork](https://help.github.com/articles/fork-a-repo/) it, clone your fork repository, and configure the remotes:
 
-```
-git clone https://github.com/<your-username>/easyedaTemplate.git
-cd easyedaTemplate
-git remote add upstream https://github.com/nakujaproject/easyedaTemplate.git
+```bash
+git clone https://github.com/<your-username>/tana-board.git
+cd tana-board
+git remote add upstream https://github.com/0x6flab/tana-board.git
 ```
 
 If your cloned repository is behind the upstream commits, then get the latest changes from upstream:
 
-```
+```bash
 git checkout main
 git pull --rebase upstream main
 ```
 
-Create a new topic branch from `main` using the naming convention `NP-[issue-number]`
+Create a new topic branch from `main` using the naming convention `TB-[issue-number]`
 to help us keep track of your contribution scope:
 
-```
-git checkout -b NP-[issue-number]
+```bash
+git checkout -b TB-[issue-number]
 ```
 
 Commit your changes in logical chunks. When you are ready to commit, make sure to write a Good Commit Message™. Consult the [Erlang's contributing guide](https://github.com/erlang/otp/wiki/Writing-good-commit-messages) if you're unsure of what constitutes a Good Commit Message™. Use [interactive rebase](https://help.github.com/articles/about-git-rebase) to group your commits into logical units of work before making it public.
@@ -56,14 +56,14 @@ Use your real name (sorry, no pseudonyms or anonymous contributions). If you set
 
 Locally merge (or rebase) the upstream development branch into your topic branch:
 
-```
+```bash
 git pull --rebase upstream main
 ```
 
 Push your topic branch up to your fork:
 
-```
-git push origin NP-[issue-number]
+```bash
+git push origin TB-[issue-number]
 ```
 
 [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title

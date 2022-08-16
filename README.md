@@ -8,6 +8,14 @@ Docs, Schematic and Board file for a the Tana development board based on the RP2
 
 Tana board development board
 
+- KiCAD 6 Symbol. KiCAD 6 symbol [files](commingsoon) for the board that you can use when integrating one of them into one of your PCB designs.
+- KiCAD 6 Footprint. KiCAD 6 footprint [files](commingsoon) for the board including both SMD and TH versions for the S1.
+- EasyEda Symbol. EasyEda symbol [files](commingsoon) for the board that you can use when integrating one of them into one of your PCB designs.
+- EasyEda Footprint. EasyEda footprint [files](commingsoon) for the board including both SMD and TH versions for the S1.
+- Schematics. PDF [Schematics](commingsoon) for the board.
+- Pin Reference Cards. The [pinout reference cards](pinout/pinout.svg) for each of the board.
+- Fritzing Parts. Fritzing [parts](commingsoon) for the board.
+
 ## Features
 
 - RP2040
