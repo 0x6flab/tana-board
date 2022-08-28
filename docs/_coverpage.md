@@ -1,13 +1,13 @@
 ![logo](_media/favicon.png)
 
-# tujue pawa <small>1.0.1</small>
+# tana board <small>1.0.1</small>
 
 > Let demistyfy power outages for you.
 
 - Simple and lightweight
 - Readily accessible
 
-[GitHub](https://github.com/0x6flab/tujue-pawa)
+[GitHub](https://github.com/0x6flab/tana-board)
 [Getting Started](/quickstart)
 
 
